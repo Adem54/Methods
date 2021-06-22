@@ -41,6 +41,7 @@ namespace ValueAndReferenceTypes
             //değişiklikler yansımış oluyor
             //Pekii nummer1 in önceki tuttuğu adres ne oluyor o adres de belli bir süre sonra garbage collector tarafından silinecektir
             Console.ReadLine();
+            //
         }
     }
 }
